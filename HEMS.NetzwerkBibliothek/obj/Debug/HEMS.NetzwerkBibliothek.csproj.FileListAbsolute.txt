@@ -1,0 +1,6 @@
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkBibliothek\bin\Debug\HEMS.NetzwerkBibliothek.dll
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkBibliothek\bin\Debug\HEMS.NetzwerkBibliothek.pdb
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Debug\HEMS.NetzwerkBibliothek.csprojAssemblyReference.cache
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Debug\HEMS.NetzwerkBibliothek.csproj.CoreCompileInputs.cache
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Debug\HEMS.NetzwerkBibliothek.dll
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Debug\HEMS.NetzwerkBibliothek.pdb

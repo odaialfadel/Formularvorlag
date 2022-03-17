@@ -1,0 +1,36 @@
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkGUI.exe.config
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkGUI.exe
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkGUI.pdb
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.csprojAssemblyReference.cache
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\MainWindow.g.cs
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\App.g.cs
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI_MarkupCompile.cache
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI_MarkupCompile.lref
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\MainWindow.baml
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.g.resources
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.Properties.Resources.resources
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.csproj.GenerateResource.cache
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.csproj.CoreCompileInputs.cache
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.exe
+D:\Code\C#\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.pdb
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.csprojAssemblyReference.cache
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\MainWindow.g.cs
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\App.g.cs
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI_MarkupCompile.cache
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI_MarkupCompile.lref
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.exe
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.pdb
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkGUI.exe.config
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkGUI.exe
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkGUI.pdb
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkAppTest.exe
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkBibliothek.dll
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkAppTest.pdb
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkAppTest.exe.config
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\bin\Debug\HEMS.NetzwerkBibliothek.pdb
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\MainWindow.baml
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.g.resources
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.Properties.Resources.resources
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.csproj.GenerateResource.cache
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.csproj.CoreCompileInputs.cache
+C:\Users\A104356982\Programme\Workspace\Berufsschule 2\NetzwerkProjekt\HEMS.NetzwerkGUI\obj\Debug\HEMS.NetzwerkGUI.csproj.CopyComplete

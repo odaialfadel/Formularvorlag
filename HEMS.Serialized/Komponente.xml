@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfKomponente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Komponente>
+    <Guid>0505afff-1983-42cf-a4e6-0ecc9ffa809c</Guid>
+    <Hersteller>Cisco</Hersteller>
+    <Beschreibung>Switch</Beschreibung>
+    <Inbetriebnahme>2021-03-09T00:00:00</Inbetriebnahme>
+    <Gebäudename>Zentrale</Gebäudename>
+    <Raumnummer>1</Raumnummer>
+  </Komponente>
+  <Komponente>
+    <Guid>ec57b342-9310-4df9-91a9-bf49c8279b06</Guid>
+    <Hersteller>Cisco</Hersteller>
+    <Beschreibung>Router</Beschreibung>
+    <Inbetriebnahme>2021-03-05T00:00:00</Inbetriebnahme>
+    <Gebäudename>Zentrale</Gebäudename>
+    <Raumnummer>2</Raumnummer>
+  </Komponente>
+  <Komponente>
+    <Guid>5b806237-286d-46c6-9a0a-794326a0f5aa</Guid>
+    <Hersteller>Samsung</Hersteller>
+    <Beschreibung>Router</Beschreibung>
+    <Inbetriebnahme>2021-03-09T00:00:00</Inbetriebnahme>
+    <Gebäudename>Filiale A</Gebäudename>
+    <Raumnummer>1</Raumnummer>
+  </Komponente>
+  <Komponente>
+    <Guid>77062ce4-8d2e-41b4-bda6-b8d915da17d7</Guid>
+    <Hersteller>Samsung</Hersteller>
+    <Beschreibung>Switch</Beschreibung>
+    <Inbetriebnahme>2021-03-15T00:00:00</Inbetriebnahme>
+    <Gebäudename>Filiale A</Gebäudename>
+    <Raumnummer>2</Raumnummer>
+  </Komponente>
+  <Komponente>
+    <Guid>a3d7e137-02eb-41b2-82ff-cd006dfef0ed</Guid>
+    <Hersteller>Asus</Hersteller>
+    <Beschreibung>Router</Beschreibung>
+    <Inbetriebnahme>2021-03-15T00:00:00</Inbetriebnahme>
+    <Gebäudename>Filiale B</Gebäudename>
+    <Raumnummer>3</Raumnummer>
+  </Komponente>
+  <Komponente>
+    <Guid>6b1b659e-4f03-46e3-b963-681b98a2855e</Guid>
+    <Hersteller>Asus</Hersteller>
+    <Beschreibung>WAP</Beschreibung>
+    <Inbetriebnahme>2021-03-15T00:00:00</Inbetriebnahme>
+    <Gebäudename>Filiale B</Gebäudename>
+    <Raumnummer>4</Raumnummer>
+  </Komponente>
+</ArrayOfKomponente>

@@ -1,0 +1,6 @@
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkBibliothek\bin\Release\HEMS.NetzwerkBibliothek.dll
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkBibliothek\bin\Release\HEMS.NetzwerkBibliothek.pdb
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Release\HEMS.NetzwerkBibliothek.csprojAssemblyReference.cache
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Release\HEMS.NetzwerkBibliothek.csproj.CoreCompileInputs.cache
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Release\HEMS.NetzwerkBibliothek.dll
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkBibliothek\obj\Release\HEMS.NetzwerkBibliothek.pdb

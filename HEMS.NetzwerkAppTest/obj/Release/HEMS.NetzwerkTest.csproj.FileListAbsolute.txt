@@ -1,0 +1,10 @@
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\bin\Release\HEMS.NetzwerkAppTest.exe.config
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\bin\Release\HEMS.NetzwerkAppTest.exe
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\bin\Release\HEMS.NetzwerkAppTest.pdb
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\bin\Release\HEMS.NetzwerkBibliothek.dll
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\bin\Release\HEMS.NetzwerkBibliothek.pdb
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\obj\Release\HEMS.NetzwerkTest.csprojAssemblyReference.cache
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\obj\Release\HEMS.NetzwerkTest.csproj.CoreCompileInputs.cache
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\obj\Release\HEMS.NetzwerkTest.csproj.CopyComplete
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\obj\Release\HEMS.NetzwerkAppTest.exe
+C:\Users\odaia\source\repos\NetzwerkProjekt\HEMS.NetzwerkAppTest\obj\Release\HEMS.NetzwerkAppTest.pdb
